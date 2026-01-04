@@ -1,4 +1,5 @@
-![ncdu disk usage analysis](01_Analyzing data in a server room.png)
+
+![ncdu disk usage analysis](01_Analyzin.png)
 # ncdu: Quickly Find What’s Eating Your Disk Space
 
 It started like many production incidents do.

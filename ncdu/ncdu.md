@@ -1,5 +1,5 @@
 
-![ncdu disk usage analysis](01_Analyzin.png)
+![ncdu disk usage analysis](01_Analyzing.png)
 # ncdu: Quickly Find What’s Eating Your Disk Space
 
 It started like many production incidents do.

@@ -1,4 +1,4 @@
-![Alt text](anacron-demo.png)
+![anacron command](anacron-demo.png)
 # 🕒 Cron vs Anacron: How to Make Sure Your Jobs Always Run
 
 We all love **Cron**, right? It’s the heartbeat of Linux automation. You set a time, and Cron runs the script. Simple.

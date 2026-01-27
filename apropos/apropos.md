@@ -15,9 +15,8 @@ apropos "disk usage"
 The terminal replied immediately:
 
 ```
-du (1)     - estimate file space usage
-ncdu (1)   - NCurses disk usage analyzer
-baobab (1) - GNOME disk usage analyzer
+docker-system-df (1) - Show docker disk usage
+ncdu (1)             - NCurses Disk Usage
 ```
 
 There it was — `ncdu`.
@@ -134,6 +133,6 @@ When you remember the task but forget the command, `apropos` is often the fastes
 
 If this article helps you during a late-night troubleshooting session, consider sharing it so others can rediscover this quiet but powerful Linux feature.
 
-#Linux #DevOps #SysAdmin #apropos #LinuxTools #HiddenGems
+#Linux #DevOps #SysAdmin #apropos #LinuxTools #DevOps
 
 ---

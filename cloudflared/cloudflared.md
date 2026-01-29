@@ -56,11 +56,11 @@ No stress.
 
 And yes — it works for:
 
-* **Frontend apps**
-* **Backend APIs**
+* **Frontend apps (React, Vue, plain HTML)**
+* **Backend APIs (Node.js, Python, FastAPI)**
 * **DevOps tools**
+* **Jenkins webhooks & CI tools**
 * **Windows, Linux, macOS**
-* **Windows Server** too
 
 ---
 

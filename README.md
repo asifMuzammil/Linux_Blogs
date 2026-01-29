@@ -12,6 +12,7 @@ I document "Hidden Gems" of Linux—tools like **Anacron**, **Logrotate**, and o
 
 ## Index
 - 1 [ncdu (NCurses Disk Usage) →](./ncdu/ncdu.md)
-- 2 [Anacron](./anacron/anancron.md)
+- 2 [Anacron: Never Miss Cron Job](./anacron/anancron.md)
 - 3 [Logrotate: The Right Way to Manage Logs](./logrotate/logrotate.md)
 - 4 [Apropos: for list linux commands](./apropos/apropos.md)
+- 5 [Cloudflared: opens a secure tunnel](./cloudflared/cloudflared.md))

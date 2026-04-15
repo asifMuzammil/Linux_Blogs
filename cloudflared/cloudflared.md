@@ -1,5 +1,5 @@
 ![cloudflare image](cloudflared_image.png)
-# 🚀 How to Share Your Local App With the Internet (Without a Domain or Server)
+# 🚀 How to Share Your Local App With the Internet (Without a Domain, public or static IP)
 
 **The Problem:** Your app works perfectly on `localhost:3000`. Your teammate/client wants to see it. You have no domain, no server, and deploying feels like overkill.
 
@@ -255,9 +255,9 @@ If you:
 
 - [LinkedIn](https://www.linkedin.com/in/asif-muzammil-hussain-b6742441/)
 - [GitHub](https://github.com/asifMuzammil/github-actions-docker-ghcr)
+- [AWS Community Builder](https://builder.aws.com/community/@asifaws?tab=badges)
 - [Personal Email](m.asif.muzammil@gmail.com)
 - [Medium](https://medium.com/@m.asif.muzammil)
 - [Kaggle](https://www.kaggle.com/asifmuzammil)
 
-#DevOps #Linux #SysAdmin #cloudflared #Automation #TechTips
-
+---
